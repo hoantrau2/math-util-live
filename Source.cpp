@@ -16,3 +16,4 @@ int  main()
 	cout << *static_cast<int*>(ptr) << endl;
 	return 0;
 }
+// fix lai code ngay 29/8/2022
