@@ -14,6 +14,6 @@ int  main()
 	//cout << *ptr << endl;
 	int* iptr = static_cast<int*>(ptr);
 	cout << *static_cast<int*>(ptr) << endl;
-	return 0;
+	//xoa Return 0 roi
 }
 // fix lai code ngay 29/8/2022
